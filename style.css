@@ -15,10 +15,40 @@
     background-color: cadetblue;
     height: 100vh;
 }
-.my-col:nth-child(odd){
-    background: peachpuff;
+.my-col:nth-child(1){
+    background: tan;
 }
-.my-col:nth-child(even){
-    background: rgb(255, 119, 0);
+.my-col:nth-child(2){
+    background: turquoise;
 }
+.my-col:nth-child(3){
+    background: yellowgreen;
+.my-col:nth-child(4){
+    background: turquoise;
+}
+.my-col:nth-child(5){
+    background: slateblue;
+}
+.my-col:nth-child(6){
+    background: saddlebrown;
+}
+.my-col:nth-child(7){
+    background: peru;
+}
+.my-col:nth-child(8){
+    background: olive;
+}
+.my-col:nth-child(9){
+    background: maroon;
+}
+.my-col:nth-child(10){
+    background: turquoise;
+}
+.my-col:nth-child(11){
+    background: lime;
+}
+.my-col:nth-child(12){
+    background: darkgreen;
+}
+
 
