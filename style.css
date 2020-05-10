@@ -1,0 +1,24 @@
+.my-col1{
+    background-color: rgb(187, 55, 55);
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+}
+.my-col1 img{
+    transition: all 1.5s ease;
+   
+}
+.my-col1 img:hover{
+    transform: scale(1.5);
+}
+.my-col2{
+    background-color: cadetblue;
+    height: 100vh;
+}
+.col-1:nth-child(odd){
+    background: peachpuff;
+}
+.col-1:nth-child(even){
+    background: rgb(255, 119, 0);
+}
+
