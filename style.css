@@ -15,10 +15,10 @@
     background-color: cadetblue;
     height: 100vh;
 }
-.col-1:nth-child(odd){
+.my-col:nth-child(odd){
     background: peachpuff;
 }
-.col-1:nth-child(even){
+.my-col:nth-child(even){
     background: rgb(255, 119, 0);
 }
 
