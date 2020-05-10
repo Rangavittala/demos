@@ -23,8 +23,9 @@
 }
 .my-col:nth-child(3){
     background: yellowgreen;
+}
 .my-col:nth-child(4){
-    background: turquoise;
+    background: darkmagenta;
 }
 .my-col:nth-child(5){
     background: slateblue;
@@ -42,7 +43,7 @@
     background: maroon;
 }
 .my-col:nth-child(10){
-    background: turquoise;
+    background: darkcyan ;
 }
 .my-col:nth-child(11){
     background: lime;
